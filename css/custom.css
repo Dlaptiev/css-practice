@@ -1,0 +1,48 @@
+.logo{
+    color: blue;
+
+}
+
+nav a{
+    color :green;
+}
+nav a:visited {
+    color: #444;
+}
+.above-the-fold{
+    color:white;
+}
+.above-the-fold button{
+    background-color:lightgreen;
+    color:white;
+}
+article p::first-letter{
+    margin-left: 30px;
+}
+.blog{
+    background: #666;
+    color:#cff;
+}
+.gallery figure{
+    box-shadow:5px 10px 4px blue;
+}
+.gallery figcaption{
+    padding: 8px;
+}
+.image{
+    
+}
+.article{
+    margin-top: 40px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article-title{
+    text-align: center;
+}
+
+section h2{
+    
+}
